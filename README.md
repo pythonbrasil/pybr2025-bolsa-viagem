@@ -1,0 +1,1 @@
+# Programa de Auxílio Financeiro para a Python Brasil 2025
