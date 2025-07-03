@@ -1,4 +1,4 @@
-# Programa de Auxílio Financeiro para a Python Brasil 2022
+# Programa de Auxílio Financeiro para a Python Brasil 2025
 
 O auxílio financeiro tem como objetivo apoiar a participação de grupos historicamente sub representados nas edições presenciais do evento "Python Brasil". Ela é fornecida para aquelas pessoas, residentes em território nacional, que necessitam de apoio financeiro para comparecer ao evento e que de outra maneira não poderiam participar.
 
@@ -27,9 +27,9 @@ Disponibilização do ingresso individual gratuito para o evento presencial. Nã
 
 * **Auxílio alimentação**
 
-Disponibilização de auxílio alimentação no valor de R$ 31,91/dia*, sendo o valor máximo requerido o total de 15 refeições.
+Disponibilização de auxílio alimentação no valor de R$ 59,67/dia*, sendo o valor máximo requerido o total de 15 refeições.
 
-> Valor referente da “Pesquisa Preço Médio ABBT, 2022”, realizado pela Associação Brasileira das Empresas de Benefícios ao Trabalhador, disponível em https://www.pesquisaprecomedio.com.br/preco-medio-refeicao/am/manaus 
+> Valor referente da “Pesquisa Preço Médio ABBT, 2024”, realizado pela Associação Brasileira das Empresas de Benefícios ao Trabalhador, disponível em [https://www.pesquisaprecomedio.com.br/preco-medio-refeicao/sp/sao-paulo](https://www.pesquisaprecomedio.com.br/preco-medio-refeicao/sp/sao-paulo)
 
 * **Transporte aéreo/terrestre**
 
@@ -41,6 +41,7 @@ Fornecimento de hospedagem para pessoa participante com inscrição confirmada o
 
 ## Cronograma
 
+(a definir novas datas)
 21 ago. 2022 - Abertura do período para solicitação de auxílio financeiro
 03 set. 2022 - Encerramento do período para solicitação de auxílio financeiro
 06 set. 2022 - As pessoas solicitantes receberão uma notificação sobre a aceitação ou rejeição
@@ -48,6 +49,6 @@ Fornecimento de hospedagem para pessoa participante com inscrição confirmada o
 
 ## Contato
 
-Este programa está sendo organizado por [PyLadies Brasil](https://github.com/pyladies-brazil/), [AfroPython](https://github.com/afropython/) e [Organização da Python Brasil 2022](https://github.com/pythonbrasil/).
+Este programa está sendo organizado por [PyLadies Brasil](https://github.com/pyladies-brazil/) e [Organização da Python Brasil 2025](https://github.com/pythonbrasil/).
 
-Para mais informações entre em contato com eventos@python.org.br.
+Para mais informações entre em contato com brasil@pyladies.com.
