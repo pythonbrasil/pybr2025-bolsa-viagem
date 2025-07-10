@@ -1,4 +1,4 @@
-## Critérios para Adesão ao Fundo de Inclusão da Python Brasil
+# Critérios utilizados para seleção de beneficiárias
 
 A concessão do auxílio financeiro seguirá a seguinte ordem de prioridade:
 
