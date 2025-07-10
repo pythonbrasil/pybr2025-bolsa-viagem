@@ -1,21 +1,47 @@
-# Critérios utilizados para seleção de beneficiárias
+## Critérios para Adesão ao Fundo de Inclusão da Python Brasil
 
-Devido a explícita definição do público alvo desse Programa e a limitação de recursos financeiros disponíveis, foram utilizados os seguintes critérios para distribuição dos citados recursos, seguindo a ordem de prioridade abaixo:
+A concessão do auxílio financeiro seguirá a seguinte ordem de prioridade:
 
-1. **Ministrantes de atividades**:  
-Pessoas com atividade aprovada para compor a programação da Python Brasil 2022 e que sinalizaram, no formulário de submissão de atividades, sua necessidade por auxílio financeiro. Além disso, que seguiram as regras para inscrição no Programa de Auxílio Financeiro.
+1. **Mulheres ministrantes de atividades, autodeclaradas negras, pardas ou indígenas, residentes nas regiões Norte e Nordeste do país:**  
+Mulheres com submissão de atividade aprovada pela organização do evento, autodeclaradas negras, pardas ou indígenas, residentes nos estados das regiões Norte ou Nordeste, que tenham seguido todas as regras de inscrição no Programa de Auxílio Financeiro.
 
-1. **Mulheres autodeclaradas negras, pardas ou indígenas**:
-Mulheres autodeclaradas negras, pardas ou indígenas de todo o país, que seguiram as regras para inscrição no Programa de Auxílio Financeiro.
+2. **Mulheres autodeclaradas negras, pardas ou indígenas da região Norte:**  
+Mulheres autodeclaradas negras, pardas ou indígenas, residentes nos estados da região Norte do país, que tenham seguido todas as regras de inscrição no Programa de Auxílio Financeiro.
 
-3. **Residentes do estado do Amazonas e autodeclaradas negras, pardas ou indígenas**:
-Todas as pessoas residentes no estado do Amazonas e autodeclaradas negras, pardas ou indígenas, que seguiram as regras para inscrição no Programa de Auxílio Financeiro.
+3. **Mulheres autodeclaradas negras, pardas ou indígenas da região Nordeste:**  
+Mulheres autodeclaradas negras, pardas ou indígenas, residentes nos estados da região Nordeste do país, que tenham seguido todas as regras de inscrição no Programa de Auxílio Financeiro.
 
-4. **Mulheres residentes do estado do Amazonas**:
-Demais mulheres residentes no estado do Amazonas, que seguiram as regras para inscrição no Programa de Auxílio Financeiro.
+4. **Pessoas autodeclaradas negras, pardas ou indígenas residentes nas regiões Norte e Nordeste:**  
+Pessoas autodeclaradas negras, pardas ou indígenas, residentes nos estados das regiões Norte ou Nordeste, que tenham seguido todas as regras de inscrição no Programa de Auxílio Financeiro.
 
-5. **Residentes dos estados da Região Norte e autodeclaradas negras, pardas ou indígenas**:
-Pessoas residentes em todos os estados da Região Norte e autodeclaradas negras, pardas ou indígenas que seguiram as regras para inscrição no Programa de Auxílio Financeiro.
+5. **Ministrantes de atividades autodeclaradas negras, pardas ou indígenas residentes nas demais regiões do país (Centro-Oeste, Sudeste e Sul):**  
+Pessoas com submissão de atividade aprovada pela organização do evento, autodeclaradas negras, pardas ou indígenas, residentes nas demais regiões do país (Centro-Oeste, Sudeste ou Sul), que tenham seguido todas as regras de inscrição no Programa de Auxílio Financeiro.
 
-6. **Demais residentes do estado do Amazonas**:
-Demais residentes no estado do Amazonas, que seguiram as regras para inscrição no Programa de Auxílio Financeiro.
+6. **Pessoas autodeclaradas negras, pardas ou indígenas residentes nas demais regiões do país (Centro-Oeste, Sudeste e Sul):**  
+Pessoas autodeclaradas negras, pardas ou indígenas, residentes nas demais regiões do país (Centro-Oeste, Sudeste ou Sul), que tenham seguido todas as regras de inscrição no Programa de Auxílio Financeiro.
+
+7. **Mulheres ministrantes de atividades, residentes nas demais regiões do país (Centro-Oeste, Sudeste e Sul):**  
+Mulheres com submissão de atividade aprovada pela organização do evento, independente da autodeclaração de raça, residentes nas demais regiões do país (Centro-Oeste, Sudeste ou Sul), que tenham seguido todas as regras de inscrição no Programa de Auxílio Financeiro.
+
+8. **Mulheres residentes nas demais regiões do país (Centro-Oeste, Sudeste e Sul):**  
+Mulheres, independente da autodeclaração de raça, residentes nas demais regiões do país (Centro-Oeste, Sudeste ou Sul), que tenham seguido todas as regras de inscrição no Programa de Auxílio Financeiro.
+
+9. **Ministrantes de atividades residentes nas regiões Norte e Nordeste:**  
+Pessoas com submissão de atividade aprovada pela organização do evento, independente de gênero ou raça, residentes nas regiões Norte ou Nordeste do país, que tenham seguido todas as regras de inscrição no Programa de Auxílio Financeiro.
+
+10. **Ministrantes de atividades residentes nas demais regiões do país (Centro-Oeste, Sudeste e Sul):**  
+Pessoas com submissão de atividade aprovada pela organização do evento, independente de gênero ou raça, residentes nas demais regiões do país (Centro-Oeste, Sudeste ou Sul), que tenham seguido todas as regras de inscrição no Programa de Auxílio Financeiro.
+
+11. **Demais residentes do país:**  
+Demais pessoas residentes no Brasil que tenham seguido todas as regras de inscrição no Programa de Auxílio Financeiro.
+
+---
+
+## Critérios de Desempate
+
+Em caso de empate, serão priorizadas as pessoas que se enquadrem, nesta ordem:
+
+1. Pessoas autodeclaradas trans e travestis;
+2. Pessoas com deficiência física;
+3. Pessoas pertencentes à comunidade LGBTQIAPN+;
+4. Pessoas que estão participando do evento pela primeira vez ou que tenham o menor número de participações em edições anteriores.
