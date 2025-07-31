@@ -42,10 +42,12 @@ Fornecimento de hospedagem para pessoa participante com inscrição confirmada o
 ## Cronograma
 
 (a definir novas datas)
-21 ago. 2022 - Abertura do período para solicitação de auxílio financeiro
-03 set. 2022 - Encerramento do período para solicitação de auxílio financeiro
-06 set. 2022 - As pessoas solicitantes receberão uma notificação sobre a aceitação ou rejeição
-10 set. 2022 - Data limite para as pessoas beneficiadas pelo auxílio responda ao contato
+08/08/2025 - Abertura do período para solicitação de auxílio financeiro
+24/08/2025 - Encerramento do período para solicitação de auxílio financeiro
+28/08/2025 - As pessoas solicitantes receberão uma notificação sobre a aceitação ou rejeição
+01/09/2025 - Data limite para as pessoas beneficiadas pelo auxílio responda ao contato
+04/09/2025 - 2. chamada de pessoas beneficiadas
+... - a cada 3 dias fazer nova chamada, até acabar verba
 
 ## Contato
 
