@@ -1,4 +1,5 @@
-> Autoria: Consultor jurídico da APyB - @jedibruno
+> Autoria: Consultor jurídico da APyB - @jedibruno (2022)
+> Revisão: Ana Paula Gonzada e Ana Cecília Vieira - @aninhasalesp @cecivieira (2025)
 
 # Termo de ciência e responsabilidade
 
@@ -16,7 +17,7 @@
 
 4. **Responsabilidades da pessoa beneficiária**
 
-4.1. É de responsabilidade da pessoa beneficiária entrar em contato com a companhia área e/ou com a agência emissora da passagem para tirar eventuais dúvidas que tiver. Os contatos da agência Alecrim Turismo e Consultoria são: +55 81 9961-9027 e mailto:alecrimviagens@gmail.com . 
+4.1. É de responsabilidade da pessoa beneficiária entrar em contato com a companhia área emissora da passagem para tirar eventuais dúvidas que tiver.
 
 4.2. É de responsabilidade da pessoa beneficiária cumprir os termos de serviço da companhia de transporte aéreo ou terrestre. A pessoa beneficiária também é responsável por arcar com os custos e despesas decorrentes de: 
 
@@ -26,7 +27,7 @@
 
 4.3. É responsabilidade da pessoa beneficiária documentar suas interações com empresas de transporte e agência emissora da passagem, bem como guardar comprovantes de embarque e outros documentos relativos à utilização de seu auxílio.
 
-4.4. Ressalvados motivos de força maior devidamente comprovados e aceitos pela APyB, a pessoa beneficiária deverá ressarcir a entidade caso não utilizar sua passagem, devolvendo os valores da passagem à entidade.
+4.4. Ressalvados motivos de força maior devidamente comprovados e aceitos pela Equipe Organizadora do Programa de Auxílio Viagem para Python Brasil 2025, a pessoa beneficiária deverá ressarcir a APyB caso não participe do evento para o qual seu benefício foi concedido, devolvendo os valores integrais à entidade.
 
 Fulana de tal
 Local e Data
